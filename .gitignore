@@ -1,0 +1,8 @@
+*.gem
+Gemfile.lock
+Gemfile.bak
+.bundle
+vendor
+*.iml
+.git/*
+.idea/*
